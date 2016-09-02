@@ -85,6 +85,10 @@ button:focus { outline: none; }
 	height: 750px;	
 }
 
+@media (max-width: 1800px) {
+    .tm-intro { background-size: 1800px 750px;}
+}
+
 @media (min-width: 1800px) {
 	.tm-intro {	background-size: 100% 950px; height: 950px;}
 }
