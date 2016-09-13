@@ -1,0 +1,3 @@
+User-agent: *
+Host: www.avgustgost.by
+Sitemap: http://avgustgost.by/sitemap.xml
